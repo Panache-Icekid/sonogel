@@ -39,9 +39,9 @@
 
 .nav-link:hover {
     
-    border-bottom: 3px solid #0463FA; 
+    border-bottom: 3px solid #DA183B ; 
     border-radius: 15px;
-    color: #0463FA;
+    color:#DA183B;
     text-decoration: none;
 }
 
@@ -76,6 +76,11 @@
 .btn.btn-primary,
 .btn.btn-secondary {
     color: #FFFFFF;
+}
+
+.btn:hover{
+background-color: #DA183B;
+border: none;
 }
 
 .btn-square {
